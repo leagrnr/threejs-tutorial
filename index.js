@@ -1,1 +1,1 @@
-console.log('Happy developing ✨')
+import * as THREE from 'three';
